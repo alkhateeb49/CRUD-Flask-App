@@ -17,4 +17,4 @@ First, let us create a database employee.DB and the table Employees in SQLite us
 |Flask Documentation|[Link](https://flask.palletsprojects.com/en/2.0.x/)|
 |Java Point Flask & SQLite|[Link](https://www.javatpoint.com/flask-sqlite)|
 |Heroku Requirements|[Link](https://tanzu.vmware.com/developer/guides/python/cnb-gs-python/)|
-
+|GitHub using the command line|[Link](https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line)|
